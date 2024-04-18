@@ -16,17 +16,13 @@ Things like simpler deployment, better backend compatibility, and improved mobil
 
 Be back soon.
 
--- Mckay
+-- Shashank
 
 ## Official Hosted Version
 
 Use Chatbot UI without having to host it yourself!
 
 Find the official hosted version of Chatbot UI [here](https://chatbotui.com).
-
-## Sponsor
-
-If you find Chatbot UI useful, please consider [sponsoring](https://github.com/sponsors/mckaywrigley) me to support my open-source work :)
 
 ## Issues
 
@@ -68,13 +64,6 @@ npm run db-push
 
 to apply the latest migrations to your live database.
 
-## Local Quickstart
-
-Follow these steps to get your own Chatbot UI instance running locally.
-
-You can watch the full video tutorial [here](https://www.youtube.com/watch?v=9Qq3-7-HNgw).
-
-### 1. Clone the Repo
 
 ```bash
 git clone https://github.com/mckaywrigley/chatbot-ui.git
@@ -289,4 +278,4 @@ We are working on a guide for contributing.
 
 ## Contact
 
-Message Mckay on [Twitter/X](https://twitter.com/mckaywrigley)
+Message Shashank on [LinkedIn](https://www.linkedin.com/in/shashank-k-7042002s)
