@@ -66,7 +66,7 @@ to apply the latest migrations to your live database.
 
 
 ```bash
-git clone https://github.com/mckaywrigley/chatbot-ui.git
+git clone https://github.com/shashank8617/chatbot-ui-main.git
 ```
 
 ### 2. Install Dependencies
